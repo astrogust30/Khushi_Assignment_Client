@@ -56,8 +56,8 @@ Users can delete their own account. (They cannot do that for any other profiles)
 Email and password authentication for account holders
 Session management for logged in users (users stay logged in for a reasonable period of time after successful authentication)
 
-![Image 1]https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.17_2b0527d3.jpg
-![Image 2]https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.25_17226713.jpg
+![Image 1](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.17_2b0527d3.jpg)
+![Image 2](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/wireframes_localhost/WhatsApp%20Image%202024-02-02%20at%2018.20.25_17226713.jpg)
 
 
 ### Full Stack Hiring Assignment
