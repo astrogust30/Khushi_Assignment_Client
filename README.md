@@ -17,11 +17,11 @@ Manages user sessions, ensuring a reasonable duration of login persistence follo
 8.	Form Data Validation:
 Incorporates basic validation measures in sign-up and profile editing forms to enhance data accuracy and completeness.
 
-https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.56_f6e4bed1.jpg
+![Image 1](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.56_f6e4bed1.jpg)
 
-https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_35b488de.jpg
+![Image 2](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_35b488de.jpg)
 
-https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_98b21f18.jpg
+![Image 3](https://github.com/astrogust30/Khushi_Assignment_Client/blob/main/readme_doc/screenshots_localhost/WhatsApp%20Image%202024-02-02%20at%2018.28.57_98b21f18.jpg)
 
 # Server & Client Configuration Instructions
 To set up a development environment on your local computer for both the server and the client:
